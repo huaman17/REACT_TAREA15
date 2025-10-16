@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/REACT_TAREA15/static/css/main.0ea10f4b.css",
+    "main.js": "/REACT_TAREA15/static/js/main.fb2f3105.js",
+    "static/js/453.e60c881b.chunk.js": "/REACT_TAREA15/static/js/453.e60c881b.chunk.js",
+    "index.html": "/REACT_TAREA15/index.html",
+    "main.0ea10f4b.css.map": "/REACT_TAREA15/static/css/main.0ea10f4b.css.map",
+    "main.fb2f3105.js.map": "/REACT_TAREA15/static/js/main.fb2f3105.js.map",
+    "453.e60c881b.chunk.js.map": "/REACT_TAREA15/static/js/453.e60c881b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ea10f4b.css",
+    "static/js/main.fb2f3105.js"
+  ]
+}
